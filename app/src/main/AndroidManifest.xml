@@ -15,6 +15,7 @@
         <activity android:name=".BestDealsActivity" />
         <activity android:name=".BarsActivity" />
         <activity android:name=".DealsActivity" />
+        <activity android:name=".DealOfDayActivity" />
 
         <activity android:name=".MainActivity"
             android:exported="true">
