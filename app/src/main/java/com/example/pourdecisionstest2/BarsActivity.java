@@ -10,19 +10,19 @@ import com.example.pourdecisionstest2.BarsAdapter;
 
 public class BarsActivity extends AppCompatActivity {
     String[] bars = {
-            "Bar A - Live Music",
-            "Bar B - Happy Hour 4-6PM",
-            "Bar C - Karaoke Night",
-            "Bar D - Trivia Tuesdays",
-            "Bar E - Free Pool",
-            "Bar F - Ladies Night",
-            "Bar G - Craft Beer Special",
-            "Bar H - Student Discount",
-            "Bar I - Game Night",
-            "Bar J - $2 Shots",
-            "Bar K - Live DJ",
-            "Bar L - Sports Screens",
-            "Bar M - Margarita Madness"
+            "Champs Downtown",
+            "Doggie's Pub",
+            "Bill Pickle's Taproom",
+            "Cafe 210 West",
+            "Brother's",
+            "Shandygaff",
+            "The Phyrst",
+            "The Basement NightClub",
+            "Primanti Bros",
+            "Lion's Den",
+            "Sharkie's Bar and Bottle Shop",
+            "The Brewery",
+            "Champs North Atherton"
     };
 
     @Override

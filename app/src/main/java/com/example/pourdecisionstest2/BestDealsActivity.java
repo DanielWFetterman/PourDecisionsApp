@@ -7,9 +7,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class BestDealsActivity extends AppCompatActivity {
     String[] bestDeals = {
-            "Free Entry at Bar A",
-            "$1 Wings at Bar F",
-            "$2 Drinks at Bar K"
+            "Free Entry at The Basement NightClub",
+            "$1 Wings at Brother's Bar and Grill",
+            "$2 Drinks at Champs Downtown"
     };
 
     @Override
