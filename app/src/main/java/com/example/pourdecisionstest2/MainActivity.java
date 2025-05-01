@@ -23,12 +23,12 @@ public class MainActivity extends AppCompatActivity {
 
         Button btnDeals = findViewById(R.id.btn_deals);
         Button btnBars = findViewById(R.id.btn_bars);
-        Button btnBestDeals = findViewById(R.id.btn_best_deals);
+//        Button btnBestDeals = findViewById(R.id.btn_best_deals);
         Button btnDealOfDay = findViewById(R.id.btn_deal_of_the_day);
 
         btnDeals.setOnClickListener(v -> startActivity(new Intent(this, com.example.pourdecisionstest2.DealsActivity.class)));
         btnBars.setOnClickListener(v -> startActivity(new Intent(this, com.example.pourdecisionstest2.BarsActivity.class)));
-        btnBestDeals.setOnClickListener(v -> startActivity(new Intent(this, com.example.pourdecisionstest2.BestDealsActivity.class)));
+//        btnBestDeals.setOnClickListener(v -> startActivity(new Intent(this, com.example.pourdecisionstest2.BestDealsActivity.class)));
         btnDealOfDay.setOnClickListener(v -> startActivity(new Intent(this, com.example.pourdecisionstest2.DealOfDayActivity.class)));
 
         Toolbar toolbar = findViewById(R.id.my_toolbar);
